@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "十字架You and I",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T18:29:07.361491Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "十字架 You and I",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_十字架_You_and_I_BaseBallBear.txt"
+    }
+  ]
+}
